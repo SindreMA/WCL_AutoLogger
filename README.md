@@ -1,4 +1,8 @@
 # WCL_AutoLogger
+A small program to auto start live logging on game start.
+Pared with ingame auto logging, it should make sure every instance gets uploaded to WCL
+https://wago.io/AJ3VSgFjE/5
+
 
 Set this program to run on login/boot, by using task scheduler
 <img width="707" alt="image" src="https://user-images.githubusercontent.com/29127320/187520079-244a72f7-97da-47db-aef4-cfb012e0a031.png">
